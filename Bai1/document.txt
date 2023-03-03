@@ -1,0 +1,42 @@
+
+                <th>#</th>
+                <th>Công việc</th>
+                <th>Việc cần làm</th>
+                <th>
+                Hoàn thành
+                </th>    
+            </tr>
+            <tr>
+                <td >1</td>
+                <td>Tạo bảng cho bài 1</td>
+                <td>
+                    <ul>
+                        <li>Sử dụng thẻ table tạo 1 bảng</li>
+                        <li>Thead là nơi viết nội dung cho phân tiêu đề bảng</li>
+                        <li>Tbody là nơi viết các nội dung cần thực hiện</li>
+                        <li>Viết nội dung hàng trong tr và cột trong td</li>
+                    </ul>
+                </td>
+                <td>
+                    <form action="">
+                        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+                    </form>
+                </td>
+            </tr>
+            <tr>
+               <td>2</td>
+               <td>
+                Tìm hiểu buổi học số 2 
+               </td>
+               <td>
+                <a target="_blank" href="https://www.facebook.com/hien.nguyenvu.5477" rel="noopener noreferrer" title="Bấm vào đây để xem...">Bấm vào đây</a>
+                <span>để xem nội dung bài học</span>
+               </td>
+               <td>
+                <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+               </td>
+            </tr> 
+        </tr>
+        <tr>
+
+        </tr>
