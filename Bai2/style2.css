@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://thptbinhthanh.edu.vn/wp-content/uploads/100-Background-Xanh-Duong-Dep-BINH-YEN-NHU-BAU-TROI.jpg);
+    background-size: 50%;
+    background-repeat: repeat-y ;
+    font-family: Arial;
+    font-size: 16px;
+    color: #222;    
+}
+#rectangle{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(80,120,250,0.5);
+    border-style: dashed;
+    border-width: 2px;
+    text-align: center;
+    position: relative;
+}
+.google{
+    color: red;
+    text-decoration: none;
+}
+.rectangle-title{
+    color: rgb(80,255, 55);  
+}
+.rectangle-title-underlined{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    position: absolute;
+    top: 50%;left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}
